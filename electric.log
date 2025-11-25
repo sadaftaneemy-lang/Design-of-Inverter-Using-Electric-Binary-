@@ -1,0 +1,304 @@
+Electric Version 9.07
+--------------- 0 --------------
+  Mon Nov 24 12:20:08 IST 2025
+Menu Activated: File | Open Library...
+--------------- 1 --------------
+  Mon Nov 24 12:20:20 IST 2025
+Menu Activated: File | Save Library
+--------------- 2 --------------
+  Mon Nov 24 12:20:24 IST 2025
+Menu Activated: Tools | Simulation (Built-in) | ALS: Simulate Current Cell
+--------------- 3 --------------
+  Mon Nov 24 12:22:13 IST 2025
+Menu Activated: Tools | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 4 --------------
+  Mon Nov 24 12:22:13 IST 2025
+ProcessKeyBinding 400 when=1763967133244 modifiers=0 code=0 char=76(v) false false
+--------------- 5 --------------
+  Mon Nov 24 12:22:41 IST 2025
+Menu Activated: Tools | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 6 --------------
+  Mon Nov 24 12:22:41 IST 2025
+ProcessKeyBinding 400 when=1763967161057 modifiers=0 code=0 char=76(v) false false
+--------------- 7 --------------
+  Mon Nov 24 12:22:44 IST 2025
+Menu Activated: Tools | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 8 --------------
+  Mon Nov 24 12:22:44 IST 2025
+ProcessKeyBinding 400 when=1763967164635 modifiers=0 code=0 char=76(v) false false
+--------------- 9 --------------
+  Mon Nov 24 12:23:02 IST 2025
+Menu Activated: Tools | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 10 --------------
+  Mon Nov 24 12:23:02 IST 2025
+ProcessKeyBinding 400 when=1763967182432 modifiers=0 code=0 char=76(v) false false
+--------------- 11 --------------
+  Mon Nov 24 12:23:02 IST 2025
+Menu Activated: Tools | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 12 --------------
+  Mon Nov 24 12:23:02 IST 2025
+ProcessKeyBinding 400 when=1763967182932 modifiers=0 code=0 char=76(v) false false
+--------------- 13 --------------
+  Mon Nov 24 12:23:03 IST 2025
+Menu Activated: Tools | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 14 --------------
+  Mon Nov 24 12:23:03 IST 2025
+ProcessKeyBinding 400 when=1763967183306 modifiers=0 code=0 char=76(v) false false
+--------------- 15 --------------
+  Mon Nov 24 12:23:03 IST 2025
+Menu Activated: Tools | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 16 --------------
+  Mon Nov 24 12:23:03 IST 2025
+ProcessKeyBinding 400 when=1763967183525 modifiers=0 code=0 char=76(v) false false
+--------------- 17 --------------
+  Mon Nov 24 12:23:04 IST 2025
+ProcessKeyBinding 401 when=1763967184946 modifiers=80 code=11 char=ffff false false
+--------------- 18 --------------
+  Mon Nov 24 12:23:05 IST 2025
+Menu Activated: Window | Zoom In
+--------------- 19 --------------
+  Mon Nov 24 12:23:05 IST 2025
+ProcessKeyBinding 400 when=1763967185188 modifiers=80 code=0 char=1a false false
+--------------- 20 --------------
+  Mon Nov 24 12:23:05 IST 2025
+ProcessKeyBinding 402 when=1763967185947 modifiers=0 code=11 char=ffff false false
+--------------- 21 --------------
+  Mon Nov 24 12:23:06 IST 2025
+ProcessKeyBinding 401 when=1763967186386 modifiers=80 code=11 char=ffff false false
+--------------- 22 --------------
+  Mon Nov 24 12:23:06 IST 2025
+Menu Activated: Window | Zoom In
+--------------- 23 --------------
+  Mon Nov 24 12:23:06 IST 2025
+ProcessKeyBinding 400 when=1763967186790 modifiers=80 code=0 char=1a false false
+--------------- 24 --------------
+  Mon Nov 24 12:23:07 IST 2025
+Menu Activated: Window | Zoom In
+--------------- 25 --------------
+  Mon Nov 24 12:23:07 IST 2025
+ProcessKeyBinding 400 when=1763967187401 modifiers=80 code=0 char=1a false false
+--------------- 26 --------------
+  Mon Nov 24 12:23:07 IST 2025
+ProcessKeyBinding 402 when=1763967187963 modifiers=0 code=11 char=ffff false false
+--------------- 27 --------------
+  Mon Nov 24 12:23:49 IST 2025
+ProcessKeyBinding 401 when=1763967229572 modifiers=80 code=11 char=ffff false false
+--------------- 28 --------------
+  Mon Nov 24 12:23:50 IST 2025
+ProcessKeyBinding 402 when=1763967230083 modifiers=0 code=11 char=ffff false false
+--------------- 29 --------------
+  Mon Nov 24 12:23:51 IST 2025
+ProcessKeyBinding 401 when=1763967231682 modifiers=80 code=11 char=ffff false false
+--------------- 30 --------------
+  Mon Nov 24 12:23:52 IST 2025
+Menu Activated: Window | Zoom Out
+--------------- 31 --------------
+  Mon Nov 24 12:23:52 IST 2025
+Menu Activated: Window | Zoom Out
+--------------- 32 --------------
+  Mon Nov 24 12:23:52 IST 2025
+Menu Activated: Window | Zoom Out
+--------------- 33 --------------
+  Mon Nov 24 12:23:52 IST 2025
+Menu Activated: Window | Zoom Out
+--------------- 34 --------------
+  Mon Nov 24 12:23:52 IST 2025
+Menu Activated: Window | Zoom Out
+--------------- 35 --------------
+  Mon Nov 24 12:23:53 IST 2025
+Menu Activated: Window | Zoom Out
+--------------- 36 --------------
+  Mon Nov 24 12:23:53 IST 2025
+Menu Activated: Window | Zoom Out
+--------------- 37 --------------
+  Mon Nov 24 12:23:53 IST 2025
+Menu Activated: Window | Zoom Out
+--------------- 38 --------------
+  Mon Nov 24 12:23:54 IST 2025
+Menu Activated: Window | Zoom Out
+--------------- 39 --------------
+  Mon Nov 24 12:23:54 IST 2025
+Menu Activated: Window | Zoom Out
+--------------- 40 --------------
+  Mon Nov 24 12:23:55 IST 2025
+ProcessKeyBinding 402 when=1763967235664 modifiers=0 code=11 char=ffff false false
+--------------- 41 --------------
+  Mon Nov 24 12:24:13 IST 2025
+Menu Activated: Tools | DRC | Check Hierarchically
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@13']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'P-Transistor[pmos@5].poly-left'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@12']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'N-Transistor[nmos@1].poly-left'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'Polysilicon-1-Pin[pin@2].polysilicon-1'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'N-Transistor[nmos@1].poly-right'
+    Export 'Vin'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'Polysilicon-1-Pin[pin@3].polysilicon-1'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'P-Transistor[pmos@5].poly-right'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@11']
+--------------- 42 --------------
+  Mon Nov 24 12:24:21 IST 2025
+Menu Activated: Tools | Simulation (Built-in) | ALS: Simulate Current Cell
+--------------- 43 --------------
+  Mon Nov 24 12:24:28 IST 2025
+Menu Activated: Tools | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 44 --------------
+  Mon Nov 24 12:24:28 IST 2025
+ProcessKeyBinding 400 when=1763967268962 modifiers=0 code=0 char=76(v) false false
+--------------- 45 --------------
+  Mon Nov 24 12:25:12 IST 2025
+Menu Activated: Tools | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 46 --------------
+  Mon Nov 24 12:25:12 IST 2025
+ProcessKeyBinding 400 when=1763967312666 modifiers=0 code=0 char=67(g) false false
+--------------- 47 --------------
+  Mon Nov 24 12:25:32 IST 2025
+ProcessKeyBinding 401 when=1763967332806 modifiers=0 code=20c char=ffff false false
+--------------- 48 --------------
+  Mon Nov 24 12:25:33 IST 2025
+ProcessKeyBinding 402 when=1763967333962 modifiers=0 code=20c char=ffff false false
+--------------- 49 --------------
+  Mon Nov 24 12:25:34 IST 2025
+ProcessKeyBinding 402 when=1763967334056 modifiers=0 code=9a char=ffff false false
+--------------- 50 --------------
+  Mon Nov 24 12:26:27 IST 2025
+ProcessKeyBinding 401 when=1763967387165 modifiers=0 code=20c char=ffff false false
+--------------- 51 --------------
+  Mon Nov 24 12:26:28 IST 2025
+ProcessKeyBinding 402 when=1763967388332 modifiers=0 code=20c char=ffff false false
+--------------- 52 --------------
+  Mon Nov 24 12:26:28 IST 2025
+ProcessKeyBinding 402 when=1763967388343 modifiers=0 code=9a char=ffff false false
+--------------- 53 --------------
+  Wed Nov 06 12:26:56 IST 2024
+ProcessKeyBinding 401 when=1730876216452 modifiers=0 code=20c char=ffff false false
+--------------- 54 --------------
+  Wed Nov 06 12:26:57 IST 2024
+ProcessKeyBinding 401 when=1730876217000 modifiers=0 code=20c char=ffff false false
+--------------- 55 --------------
+  Wed Nov 06 12:26:57 IST 2024
+ProcessKeyBinding 401 when=1730876217031 modifiers=0 code=20c char=ffff false false
+--------------- 56 --------------
+  Wed Nov 06 12:26:57 IST 2024
+ProcessKeyBinding 401 when=1730876217077 modifiers=0 code=20c char=ffff false false
+--------------- 57 --------------
+  Wed Nov 06 12:26:57 IST 2024
+ProcessKeyBinding 401 when=1730876217108 modifiers=0 code=20c char=ffff false false
+--------------- 58 --------------
+  Wed Nov 06 12:26:58 IST 2024
+ProcessKeyBinding 402 when=1730876218030 modifiers=0 code=9a char=ffff false false
+--------------- 59 --------------
+  Wed Nov 06 12:26:58 IST 2024
+ProcessKeyBinding 402 when=1730876218046 modifiers=0 code=20c char=ffff false false
+--------------- 60 --------------
+  Wed Nov 06 14:28:07 IST 2024
+ProcessKeyBinding 401 when=1730883487021 modifiers=0 code=20c char=ffff false false
+--------------- 61 --------------
+  Wed Nov 06 14:28:07 IST 2024
+ProcessKeyBinding 401 when=1730883487583 modifiers=0 code=20c char=ffff false false
+--------------- 62 --------------
+  Wed Nov 06 14:28:07 IST 2024
+ProcessKeyBinding 401 when=1730883487615 modifiers=0 code=20c char=ffff false false
+--------------- 63 --------------
+  Wed Nov 06 14:28:07 IST 2024
+ProcessKeyBinding 401 when=1730883487646 modifiers=0 code=20c char=ffff false false
+--------------- 64 --------------
+  Wed Nov 06 14:28:08 IST 2024
+ProcessKeyBinding 402 when=1730883488340 modifiers=0 code=9a char=ffff false false
+--------------- 65 --------------
+  Wed Nov 06 14:28:08 IST 2024
+ProcessKeyBinding 402 when=1730883488395 modifiers=0 code=20c char=ffff false false
+--------------- 66 --------------
+  Wed Nov 06 14:28:12 IST 2024
+ProcessKeyBinding 401 when=1730883492864 modifiers=0 code=20c char=ffff false false
+--------------- 67 --------------
+  Wed Nov 06 14:28:13 IST 2024
+ProcessKeyBinding 401 when=1730883493443 modifiers=0 code=20c char=ffff false false
+--------------- 68 --------------
+  Wed Nov 06 14:28:13 IST 2024
+ProcessKeyBinding 401 when=1730883493488 modifiers=0 code=20c char=ffff false false
+--------------- 69 --------------
+  Wed Nov 06 14:28:13 IST 2024
+ProcessKeyBinding 401 when=1730883493505 modifiers=0 code=20c char=ffff false false
+--------------- 70 --------------
+  Wed Nov 06 14:28:13 IST 2024
+ProcessKeyBinding 401 when=1730883493537 modifiers=0 code=20c char=ffff false false
+--------------- 71 --------------
+  Wed Nov 06 14:28:13 IST 2024
+ProcessKeyBinding 401 when=1730883493568 modifiers=0 code=20c char=ffff false false
+--------------- 72 --------------
+  Wed Nov 06 14:28:14 IST 2024
+ProcessKeyBinding 402 when=1730883494220 modifiers=0 code=9a char=ffff false false
+--------------- 73 --------------
+  Wed Nov 06 14:28:14 IST 2024
+ProcessKeyBinding 402 when=1730883494235 modifiers=0 code=20c char=ffff false false
+--------------- 74 --------------
+  Mon Nov 24 14:07:29 IST 2025
+Menu Activated: File | Save Library
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@13']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'P-Transistor[pmos@5].poly-left'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@12']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'N-Transistor[nmos@1].poly-left'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'Polysilicon-1-Pin[pin@2].polysilicon-1'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'N-Transistor[nmos@1].poly-right'
+    Export 'Vin'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'Polysilicon-1-Pin[pin@3].polysilicon-1'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'P-Transistor[pmos@5].poly-right'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@11']
+--------------- 75 --------------
+  Mon Nov 24 14:07:30 IST 2025
+Menu Activated: File | Save Library
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@13']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'P-Transistor[pmos@5].poly-left'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@12']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'N-Transistor[nmos@1].poly-left'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'Polysilicon-1-Pin[pin@2].polysilicon-1'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'N-Transistor[nmos@1].poly-right'
+    Export 'Vin'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'Polysilicon-1-Pin[pin@3].polysilicon-1'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'P-Transistor[pmos@5].poly-right'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@11']
+--------------- 76 --------------
+  Mon Nov 24 14:07:30 IST 2025
+Menu Activated: File | Save Library
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@13']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'P-Transistor[pmos@5].poly-left'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@12']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'N-Transistor[nmos@1].poly-left'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'Polysilicon-1-Pin[pin@2].polysilicon-1'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'N-Transistor[nmos@1].poly-right'
+    Export 'Vin'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'Polysilicon-1-Pin[pin@3].polysilicon-1'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'P-Transistor[pmos@5].poly-right'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@11']
+--------------- 77 --------------
+  Mon Nov 24 14:07:31 IST 2025
+Menu Activated: File | Save Library
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@13']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'P-Transistor[pmos@5].poly-left'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@12']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'N-Transistor[nmos@1].poly-left'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'Polysilicon-1-Pin[pin@2].polysilicon-1'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'N-Transistor[nmos@1].poly-right'
+    Export 'Vin'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'Polysilicon-1-Pin[pin@3].polysilicon-1'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'P-Transistor[pmos@5].poly-right'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@11']
+--------------- 78 --------------
+  Mon Nov 24 14:07:31 IST 2025
+Menu Activated: File | Save Library
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@13']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'P-Transistor[pmos@5].poly-left'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@12']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'N-Transistor[nmos@1].poly-left'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'Polysilicon-1-Pin[pin@2].polysilicon-1'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'N-Transistor[nmos@1].poly-right'
+    Export 'Vin'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'Polysilicon-1-Pin[pin@3].polysilicon-1'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': 'P-Transistor[pmos@5].poly-right'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'inv{lay}': Polysilicon-1['net@11']
