@@ -13,4 +13,6 @@ PMOS is connected to pull up network and NMOS is connected to pull down network.
 
 <img width="1003" height="1600" alt="image" src="https://github.com/user-attachments/assets/a1842a7f-ff9e-4d55-a122-85bf05111e82" />
 
+## 🔗︎ Installation
+
 
