@@ -15,4 +15,23 @@ PMOS is connected to pull up network and NMOS is connected to pull down network.
 
 ## 🔗︎ Installation
 
+1. Download Electric Tool
+Create a new folder for installation.
+Click here: https://www.staticfreesoft.com/produc...
+Select: GET THE GNU ELECTRIC BINARY RELEASE, version 9.07
+
+2. Install Java Runtime Environment (JRE)
+Download from: https://www.oracle.com/technetwork/ja...
+
+3. Launch Electric
+After installing JRE, double-click electricBinary-9.07 from Step 1.
+
+4. Install Java 3D
+Refer to: https://download.java.net/media/java3...
+
+5. Install LTspice
+Download from: https://www.analog.com/en/design-cent...
+
+6/Integrate LTspice with Electric
+
 
