@@ -19,7 +19,7 @@ PMOS is connected to pull up network and NMOS is connected to pull down network.
    
    Create a new folder for installation.
 
-   Click here: https://www.staticfreesoft.com/produc...
+   Click here: https://www.staticfreesoft.com/productsFree.html
 
    Select: GET THE GNU ELECTRIC BINARY RELEASE, version 9.07
 
