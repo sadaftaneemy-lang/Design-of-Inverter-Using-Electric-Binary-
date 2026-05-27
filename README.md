@@ -15,6 +15,10 @@ PMOS is connected to pull up network and NMOS is connected to pull down network.
 
 ## 🔗︎ Installation
 
+I have referred this video for installation procedure :
+[ https://youtu.be/ErLhlCKonE0?si=G51TPk_J4t9BNM4K ]
+
+
 1. Download Electric Tool
    
    Create a new folder for installation.
