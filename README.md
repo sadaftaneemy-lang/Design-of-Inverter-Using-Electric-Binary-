@@ -25,18 +25,18 @@ PMOS is connected to pull up network and NMOS is connected to pull down network.
 
 2. Install Java Runtime Environment (JRE)
    
-   Download from: https://www.oracle.com/technetwork/ja...
+   Download from: https://www.oracle.com/java/technologies/downloads/#java8
 
 3. Launch Electric
    
    After installing JRE, double-click electricBinary-9.07 from Step 1.
 
 4. Install Java 3D
-   Refer to: https://download.java.net/media/java3...
+   Refer to: https://download.java.net/media/java3d/builds/release/1.5.2/README-download.html
 
 5. Install LTspice
    
-   Download from: https://www.analog.com/en/design-cent...
+   Download from: https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html
 
 6. Integrate LTspice with Electric
 
