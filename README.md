@@ -39,5 +39,7 @@ PMOS is connected to pull up network and NMOS is connected to pull down network.
    Download from: https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html
 
 6. Integrate LTspice with Electric
+   
+7. Follow this guide : https://cmosedu.com/cmos1/ltspice/ltspice_electric.htm
 
 
