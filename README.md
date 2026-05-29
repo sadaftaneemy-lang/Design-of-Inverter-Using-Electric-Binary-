@@ -19,7 +19,7 @@ I have referred this video for installation procedure :
 [ https://youtu.be/ErLhlCKonE0?si=G51TPk_J4t9BNM4K ]
 
 
-1. Download Electric Tool
+**1. Download Electric Tool**
    
    Create a new folder for installation.
 
@@ -27,22 +27,22 @@ I have referred this video for installation procedure :
 
    Select: GET THE GNU ELECTRIC BINARY RELEASE, version 9.07
 
-2. Install Java Runtime Environment (JRE)
+**2. Install Java Runtime Environment (JRE)**
    
    Download from: https://www.oracle.com/java/technologies/downloads/#java8
 
-3. Launch Electric
+**3. Launch Electric**
    
    After installing JRE, double-click electricBinary-9.07 from Step 1.
 
-4. Install Java 3D
+**4. Install Java 3D**
    Refer to: https://download.java.net/media/java3d/builds/release/1.5.2/README-download.html
 
-5. Install LTspice
+**5. Install LTspice**
    
    Download from: https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html
 
-6. Integrate LTspice with Electric
+**6. Integrate LTspice with Electric**
    
 7. Follow this guide : https://cmosedu.com/cmos1/ltspice/ltspice_electric.htm
 
