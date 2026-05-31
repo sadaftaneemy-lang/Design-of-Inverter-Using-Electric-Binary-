@@ -52,5 +52,11 @@ I have referred this video for installation procedure :
 ## Output of Schematic
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/e2ee70a3-2d7f-473c-ac55-6f2ee6de97f2" />
 
+## Layout of CMOS
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/53315220-3bae-45d3-9711-09b612aff565" />
+
+## Output of Layout
+
+
 
 
