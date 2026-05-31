@@ -49,4 +49,8 @@ I have referred this video for installation procedure :
 ## Schematic of CMOS inverter
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/36132f61-5c2c-40a5-883d-1b38d8d50ef5" />
 
+## Output of Schematic
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/e2ee70a3-2d7f-473c-ac55-6f2ee6de97f2" />
+
+
 
