@@ -56,6 +56,8 @@ I have referred this video for installation procedure :
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/53315220-3bae-45d3-9711-09b612aff565" />
 
 ## Output of Layout
+<img width="1280" height="755" alt="image" src="https://github.com/user-attachments/assets/99342e96-745b-4db3-9682-e7d1f79f4eed" />
+
 
 
 
